@@ -25,15 +25,24 @@
 ---
 
 ## 📫 Contact Me  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/enesturan0/">📎 LinkedIn</a> • 
-  <a href="mailto:enessturann16@gmail.com">📧 Gmail</a>
+  <a href="https://www.linkedin.com/in/enesturan0/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:enessturann16@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Enes-Turan&show_icons=true&theme=dark)
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Enes-Turan&show_icons=true&theme=dark" height="170" />
+</p>
 
 ---
 
