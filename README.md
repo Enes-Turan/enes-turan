@@ -1,43 +1,58 @@
-### Merhaba, ben Enes Turan 👋
-
-<p align="left">
-Ben Enes, Kırklareli Üniversitesi yazılım mühendisliği 3.sınıf öğrencisiyim. Yazılım geliştirme sürecinde problem çözmeyi, temiz kod yazmayı ve kullanıcı deneyimini ön planda tutmayı seven bir geliştiriciyim.
-Sürekli öğrenmeye, kendimi geliştirmeye ve projelerim aracılığıyla değer katmaya odaklanıyorum.
-</p>
-
----
-
-### 📬 Benimle İletişime Geçin
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/enes-turan-6a9730296/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:enessturann16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Kullandığım Teknolojiler ve Araçlar
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-</p>
-
----
-
-### 📊 GitHub İstatistiklerim
+<h1 align="center">Hi there, I'm Enes 👋</h1>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Enes-Turan&show_icons=true&locale=tr&theme=radical" alt="Enes Turan GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Turan&layout=compact&locale=tr&theme=radical" alt="Enes Turan Top Languages" />
+  Software Engineering Student at Kırklareli University  
+  <br>
+  Passionate about clean code, problem-solving, and building user-focused applications.
 </p>
+
+---
+
+## 🚀 About Me
+- 🎓 3rd-year Software Engineering Student  
+- 💻 Interested in Backend Development, Algorithms, and Databases  
+- 📚 Currently improving my skills in **C#**, **Java**, and **Python**  
+- 🎯 Goal: Land a software development internship in 2025  
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java,python,c,cpp,html,css,git,github,mysql,visualstudio,vscode" />
+</p>
+
+---
+
+## 📫 Contact Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/enesturan0/">📎 LinkedIn</a> • 
+  <a href="mailto:enessturann16@gmail.com">📧 Gmail</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Enes-Turan&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Turan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Projects I’m Proud Of
+- 🔹 **Algorithms Practice** — Solved problems using Java & Python  
+- 🔹 **C# Mini Projects** — Small applications to practice OOP  
+- 🔹 **Database Studies** — SQL queries and normalization exercises  
+
+---
+
+## 🎯 Goals for 2025
+- Build more backend-focused projects  
+- Improve problem-solving & algorithm knowledge  
+- Contribute to open-source  
+- Get a software development internship  
+
+---
+
+### ⭐ Feel free to check out my repositories and leave feedback!
