@@ -33,10 +33,9 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Enes-Turan&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Turan&layout=compact&theme=tokyonight" />
-</p>
+![Enes Turan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enes-Turan&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Turan&layout=compact&theme=dark)
 
 ---
 
