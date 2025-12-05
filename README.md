@@ -33,9 +33,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Enes Turan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enes-Turan&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Turan&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Enes-Turan&show_icons=true&theme=dark)
 
 ---
 
