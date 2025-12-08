@@ -42,7 +42,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Enes-Turan&show_icons=true&theme=nord&hide_border=true&count_private=true" 
-         alt="GitHub İstatistikleri" />
+         alt="Enes Turan'ın GitHub İstatistikleri" />
 </p>
 
 <p align="center">
@@ -52,9 +52,8 @@
 
 <p align="center">
     <img src="https://github-readme-streak-stats.demolab.com/?user=Enes-Turan&theme=nord&hide_border=true&card_width=450" 
-         alt="GitHub Streak İstatistikleri" />
+         alt="GitHub Geliştirme Serisi İstatistikleri" />
 </p>
----
 
 ## 📌 Projects I’m Proud Of
 - 🔹 **Algorithms Practice** — Solved problems using Java & Python  
