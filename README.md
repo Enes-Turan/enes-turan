@@ -41,19 +41,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Enes-Turan&show_icons=true&theme=nord&hide_border=true&count_private=true" 
-         alt="Enes Turan'ın GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Enes-Turan&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Enes-Turan&layout=compact&langs_count=8&theme=nord&hide_border=true" 
-         alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enes-Turan&theme=tokyonight" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.demolab.com/?user=Enes-Turan&theme=nord&hide_border=true&card_width=450" 
-         alt="GitHub Geliştirme Serisi İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Turan&layout=compact&theme=tokyonight" />
 </p>
+---
 
 ## 📌 Projects I’m Proud Of
 - 🔹 **Algorithms Practice** — Solved problems using Java & Python  
