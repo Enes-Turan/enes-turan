@@ -40,26 +40,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Enes-Turan&show_icons=true&theme=nord&hide_border=true&count_private=true" 
-         alt="GitHub İstatistikleri" 
-         height="180" 
-         style="margin-bottom: 15px;"/>
-    
-    &nbsp;
+         alt="GitHub İstatistikleri" />
     
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Enes-Turan&layout=compact&langs_count=8&theme=nord&hide_border=true" 
-         alt="En Çok Kullanılan Diller" 
-         height="180" 
-         style="margin-bottom: 15px;"/>
-
-    &nbsp;
-
+         alt="En Çok Kullanılan Diller" />
+    
     <img src="https://github-readme-streak-stats.demolab.com/?user=Enes-Turan&theme=nord&hide_border=true&card_width=450" 
-         alt="GitHub Streak İstatistikleri" 
-         height="180" 
-         style="margin-bottom: 15px;"/>
-</p>
+         alt="GitHub Streak İstatistikleri" />
+</div>
 ---
 
 ## 📌 Projects I’m Proud Of
