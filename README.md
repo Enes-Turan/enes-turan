@@ -41,17 +41,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enes-Turan&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enes-turan&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enes-Turan&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=enes-turan&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Turan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enes-turan&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
----
+
 
 ## 📌 Projects I’m Proud Of
 - 🔹 **Algorithms Practice** — Solved problems using Java & Python  
