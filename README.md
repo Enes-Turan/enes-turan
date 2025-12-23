@@ -66,11 +66,12 @@
 
 ---
 
-## 🎯 Goals for 2025
-- Build more backend-focused projects  
-- Improve problem-solving & algorithm knowledge  
-- Contribute to open-source  
-- Get a software development internship  
+## 🎯 Goals for 2026
+- Develop production-ready backend applications  
+- Advance data structures & algorithm expertise  
+- Make consistent open-source contributions  
+- Obtain a software development internship
+ 
 
 ---
 
