@@ -12,7 +12,7 @@
 - 🎓 3rd-year Software Engineering Student  
 - 💻 Interested in Backend Development, Algorithms, and Databases  
 - 📚 Currently improving my skills in **C#**, **Java**, and **Python**  
-- 🎯 Goal: Land a software development internship in 2025  
+- 🎯 Goal: Land a software development internship in 2026 
 
 ---
 
