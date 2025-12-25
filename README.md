@@ -54,9 +54,6 @@
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enes-turan&theme=tokyonight&utcOffset=3" />
 </p>
 
-
-
-
 ---
 
 ## 📌 Projects I’m Proud Of
