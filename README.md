@@ -40,10 +40,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Enes-Turan?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Enes-Turan?label=Total%20Stars&style=for-the-badge" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Enes-Turan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Enes-Turan&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Turan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
