@@ -27,8 +27,8 @@
 ## 📫 Contact Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/enesturan0/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <a href="https://www.linkedin.com/in/enesturan0/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:enessturann16@gmail.com">
@@ -40,10 +40,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Enes-Turan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enes-Turan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Enes-Turan?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Enes-Turan?label=Total%20Stars&style=for-the-badge" />
 </p>
-
 
 
 ---
