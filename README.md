@@ -34,6 +34,9 @@
   <a href="mailto:enessturann16@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" />
   </a>
+   <a href="mailto:enessturann.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
 </p>
 
 ---
